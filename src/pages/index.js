@@ -28,14 +28,7 @@ class HomeIndex extends React.Component {
                 <div id="main">
                     <section id="one">
                         <div className="inner">
-                            <div className="image">
-                                <img src={pic05} alt="" width="480" height="326" />
-                            </div>
-                            <header className="major">
-                                <h2>Supply Chain Sandbox</h2>
-                            </header>
-
-
+                            <span className="image left"><img src={pic05} alt="" /></span>
                             <p>
                             Supply chain management is a critical factor of 
                             business success. As software increasingly drives
@@ -50,11 +43,11 @@ class HomeIndex extends React.Component {
                             <p>
                             In a just-in-time-delivery world, cybersecurity
                             disruptions to traditional logistics and planning.
-                            Not Petya halted operations for shipping companies
+                            NotPetya halted operations for shipping companies
                             worldwide, providing a vivid illustration of how
                             dependent organizations have become on their
-                            partners’ cybersecurity for physical, as well as
-                            digital, assets.
+                            partners’ cybersecurity for physical and digital
+                            assets.
                             </p>
                             <p>
                             The Supply Chain Sandbox is an interactive
