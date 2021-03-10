@@ -7,8 +7,7 @@ const BannerUpcoming = (props) => (
                 <h1>Upcoming</h1>
             </header>
             <div className="content">
-                <p>The Supply Chain Sandbox has developed board and video
-                games to teach supply chain principles, and so have others.
+                <p>Interact with the Supply Chain Sandbox community at upcoming conferences and live events.
                 </p>
             </div>
         </div>

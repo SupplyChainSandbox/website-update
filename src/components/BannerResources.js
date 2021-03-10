@@ -7,8 +7,7 @@ const BannerResources = (props) => (
                 <h1>Resources</h1>
             </header>
             <div className="content">
-                <p>The Supply Chain Sandbox has developed board and video
-                games to teach supply chain principles, and so have others.
+                <p>Reading and educational materials for all experience levels curated by the Supply Chain Sandbox community.
                 </p>
             </div>
         </div>

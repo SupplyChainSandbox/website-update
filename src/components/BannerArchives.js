@@ -7,8 +7,7 @@ const BannerArchives = (props) => (
                 <h1>Archives</h1>
             </header>
             <div className="content">
-                <p>The Supply Chain Sandbox has developed board and video
-                games to teach supply chain principles, and so have others.
+                <p>Archive of past conferences highlighting the Supply Chain Sandbox community.
                 </p>
             </div>
         </div>
