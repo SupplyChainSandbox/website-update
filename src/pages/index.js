@@ -28,6 +28,7 @@ class HomeIndex extends React.Component {
                 <div id="main">
                     <section id="one">
                         <div className="inner">
+                            <header />
                             <span className="image left"><img src={pic05} alt="" /></span>
                             <p>
                             Supply chain management is a critical factor of 

@@ -4,9 +4,9 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerGames from '../components/BannerGames'
 
-import pic08 from '../assets/images/pic08.jpg'
-import pic09 from '../assets/images/pic09.jpg'
-import pic10 from '../assets/images/pic10.jpg'
+import pic08 from '../assets/images/supply_chain_sprint_attract.png'
+import pic09 from '../assets/images/beer_game.jpg'
+import pic10 from '../assets/images/helena-yankovska-sJOy9pveFbU-unsplash.jpg'
 
 const Games = (props) => (
     <Layout>
@@ -18,14 +18,6 @@ const Games = (props) => (
         <BannerGames />
 
         <div id="main">
-            <section id="one">
-                <div className="inner">
-                    <header className="major">
-                        <h2>Sed amet aliquam</h2>
-                    </header>
-                    <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-                </div>
-            </section>
             <section id="two" className="spotlights">
                 <section>
                     <Link to="/generic" className="image">
@@ -34,11 +26,11 @@ const Games = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Orci maecenas</h3>
+                                <h3>Supply Chain Sprint</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>A classic 8-bit game, updated to reflect the relay race that is modern supply chains.</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="http://supplychainsprint.com/" className="button">Play the game</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -50,12 +42,15 @@ const Games = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Rhoncus magna</h3>
+                                <h3>Beer Games</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-                            <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
-                            </ul>
+                            <p>Several different interpretations of the classic MIT supply chain game.</p>
+                           <ul>
+                              <li><a href="https://beergameapp.com/">The Beergame App</a></li>
+                              <li><a href="https://www.supplychain-academy.net/beer-game/">Supply Chain Academy</a></li>
+                              <li><a href="https://beergameapp.com/">A.T. Kearney (iPhone)</a></li>
+                              <li><a href="https://beergame.opexanalytics.com/#/">Opex Analytics</a></li>
+                            </ul> 
                         </div>
                     </div>
                 </section>
@@ -66,9 +61,9 @@ const Games = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>Sed nunc ligula</h3>
+                                <h3>SBOM Mixology</h3>
                             </header>
-                            <p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+                            <p>The SupplychainSanbox Sipping Bill of Materials group's intent is to provide a Bill of Materials in a fun and educational way by applying the concept to mixology!</p>
                             <ul className="actions">
                                 <li><Link to="/generic" className="button">Learn more</Link></li>
                             </ul>

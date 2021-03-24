@@ -22,7 +22,7 @@ const Archives = (props) => (
                     <header className="major">
                         <h2>Supply Chain Sandbox Community</h2>
                     </header>
-                    <p>Working with others...</p>
+                    <p>Building a community requires...</p>
                 </div>
             </section>
             <section id="two" className="spotlights">
