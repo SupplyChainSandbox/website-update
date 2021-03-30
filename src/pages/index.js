@@ -3,6 +3,7 @@ import { Link } from 'gatsby'
 import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import Banner from '../components/Banner'
+import BannerRsac from '../components/BannerRsac'
 
 import pic01 from '../assets/images/folu-eludire-O9Epo1PwX5A-unsplash.jpg'
 import pic02 from '../assets/images/drew-coffman-D1Pa78SnrH0-unsplash.jpg'
@@ -24,6 +25,7 @@ class HomeIndex extends React.Component {
                 >
                 </Helmet>
 
+                <BannerRsac />
                 <Banner />
                 <div id="main">
                     <section id="one">
