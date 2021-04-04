@@ -57,7 +57,7 @@ const QuadBlocks = (props) => (
                                     Play the game and find out!
                                 </p>
                               <ul className="actions">
-                                  <li><Link to="http://quizquadblocks.sfractal.com:4000/" className="button">Play the game</Link></li>
+                                  <li><Link to="/quadblocks" className="button">coming soon</Link></li>
                               </ul>
                 </div>
             </section>

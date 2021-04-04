@@ -4,7 +4,7 @@ import Helmet from 'react-helmet'
 import Layout from '../components/layout'
 import BannerUpcoming from '../components/BannerUpcoming'
 
-import pic08 from '../assets/images/rsac-logo-2-border.png'
+import pic08 from '../assets/images/rsac-sandbox-banner.jpg'
 
 const Upcoming = (props) => (
     <Layout>
@@ -16,9 +16,9 @@ const Upcoming = (props) => (
         <BannerUpcoming />
 
         <div id="main">
-            <section id="two" className="spotlights">
+            <section id="rsac2021" className="spotlights">
                 <section>
-                    <Link to="https://www.rsaconference.com/usa" className="image">
+                    <Link to="https://www.rsaconference.com/usa?utm_source=sbox-supchainsbox&utm_medium=referral&utm_campaign=standard-textad-us2021" className="image">
                         <img src={pic08} alt="" />
                     </Link>
                     <div className="content">
@@ -26,13 +26,17 @@ const Upcoming = (props) => (
                             <header className="major">
                                 <h3>RSA Conference 2021</h3>
                             </header>
-                            <p>RSA Conference 2021 is the best place to strengthen your resilience. From the first day to the last, you’ll gain actionable insights from hundreds of traditional and immersive sessions, collaborate and share different perspectives with peers that will spark new approaches, and see the latest technology.
-                            </p>
                             <p>
-                            RSAC 2021 offers so much to help you grow your knowledge and advance your career. Explore everything it can offer, then join us May 17–20. 
+                            <b>Discover the weak Supply Chain links at RSAC Sandbox.</b>
                             </p>
+                            <p>Tuesday, May 18 | 9:20 AM – 3:40 PM PT</p>
+                            <p>
+                            Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more
+                            effectively. <Link to="https://www.rsaconference.com/usa?utm_source=sbox-supchainsbox&utm_medium=referral&utm_campaign=standard-textad-us2021">Register today</Link> for
+                            RSAC 2021 All Access Pass.
+                            </p> 
                             <ul className="actions">
-                                <li><Link to="https://www.rsaconference.com/usa" className="button">Learn more</Link></li>
+                                <li><Link to="https://www.rsaconference.com/usa?utm_source=sbox-supchainsbox&utm_medium=referral&utm_campaign=standard-textad-us2021" className="button">register</Link></li>
                             </ul>
                         </div>
                     </div>

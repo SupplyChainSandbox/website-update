@@ -50,7 +50,6 @@ const Games = (props) => (
                                spatial negotiations are infused with real-life Trivia challenges from the world of supply chain security.</p>
                             <ul className="actions">
                                 <li><Link to="/quadblocks" className="button">Learn more</Link></li>
-                                <li><Link to="http://quizquadblocks.sfractal.com:4000/" className="button">Play the game</Link></li>
                             </ul>
                         </div>
                     </div>

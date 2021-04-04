@@ -32,7 +32,7 @@ const Archives = (props) => (
                            supply chain issues, as well as concepts and approaches to manage them more effectively.
                            </p>
                             <ul className="actions">
-                                <li><Link to="https://supplychainsandbox.org/2020-usa/" className="button">Learn more</Link></li>
+                                <li><Link to="https://supplychainsandbox.github.io/2020-usa" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
@@ -50,7 +50,7 @@ const Archives = (props) => (
                             RSAC 2020 APJ is available On Demand. Watch three days of keynotes and 60+ sessions across 10 tracks at your convenience. Access to this actionable learning is free. See the expert insights from the region’s leading cybersecurity event!
                             </p>
                             <ul className="actions">
-                                <li><Link to="https://www.rsaconference.com/apj" className="button">Learn more</Link></li>
+                                <li><Link to="https://supplychainsandbox.github.io/2020-apj" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
