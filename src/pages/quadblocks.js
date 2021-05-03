@@ -23,12 +23,12 @@ const QuadBlocks = (props) => (
                             <h2>Explore Cyber Security's Most Important Emerging Strategic Focus with the Digital Era's Most Beloved Game</h2>
 
                             <p>We proudly present the SupplyChainSandbox edition of QuadBlocksQuiz -
-                               a reimagined take on Tetris where playful spatial negotiations are infused with
+                               a reimagined take on Tetrominoes where playful spatial negotiations are infused with
                                real-life Trivia challenges from the world of supply chain security.</p>
                             <h3>Why Play?</h3>
                             <p>Whether you're attending RSAC because you "sell security" or "buy security," you can't afford
-                               to pass on this love child of Tetris and Trivia. More than abstract configurations of digital blocks,
-                               our Tetris spin-off envisions the classic arcade game as a potent metaphor for supply chain cyber security.
+                               to pass on this love child of Tetrominoes and Trivia. More than abstract configurations of digital blocks,
+                               our Tetrominoes spin-off envisions the classic arcade game as a potent metaphor for supply chain cyber security.
                                You can choose to let the blocks fall as they may and scramble to cope with the accumulated consequences at
                                a later point in time, or you can utilize savvy forecasting and informational superiority to address each
                                element as it appears on the horizon.</p>
@@ -40,9 +40,9 @@ const QuadBlocks = (props) => (
                                the tidbits offered up here will reappear as in-game trivia challenges. </p>
                              <h3>Power Up!</h3>
                                <p>You don't need to be a supply chain expert - this game assumes you are a novice
-                               and it teaches you what you need to know. You gain points by clearing rows as in a typical Tetris game.
+                               and it teaches you what you need to know. You gain points by clearing rows as in a typical Tetrominoes game.
                                Here's the twist - you can answer quiz questions about supply chain both to gain points and to gain powerups.</p>
-                              <p>Powerups help with classic Tetris strategy but also are needed
+                              <p>Powerups help with classic Tetrominoes strategy but also are needed
                                to combat:</p>
                                 <ul>
                                 <li>vulnerabilities (unfortunate gaps in an otherwise functioning security paradigm)</li>
