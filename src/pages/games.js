@@ -48,7 +48,7 @@ const Games = (props) => (
                                 <h3>QuadBlocksQuiz: Supply Chain Edition</h3>
                             </header>
                             <p>Explore cybersecurity's most important emerging strategic focus with the digital era's most beloved game.</p>
-                            <p>We proudly present the SupplyChainSandbox edition of QuadBlocksQuiz - a reimagined take on Tetris where playful
+                            <p>We proudly present the SupplyChainSandbox edition of QuadBlocksQuiz - a reimagined take on classic Tetrominoes where playful
                                spatial negotiations are infused with real-life Trivia challenges from the world of supply chain security.</p>
                             <ul className="actions">
                                 <li><Link to="/quadblocks" className="button">Learn more</Link></li>
