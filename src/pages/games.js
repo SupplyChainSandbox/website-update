@@ -8,6 +8,8 @@ import pic08 from '../assets/images/supply_chain_sprint_attract.png'
 import pic09 from '../assets/images/beer_game.jpg'
 import pic10 from '../assets/images/helena-yankovska-sJOy9pveFbU-unsplash.jpg'
 import pic11 from '../assets/images/quad-blocks-quiz.jpg'
+import pic12 from '../assets/images/jeopardy.jpg'
+
 
 const Games = (props) => (
     <Layout>
@@ -50,6 +52,22 @@ const Games = (props) => (
                                spatial negotiations are infused with real-life Trivia challenges from the world of supply chain security.</p>
                             <ul className="actions">
                                 <li><Link to="/quadblocks" className="button">Learn more</Link></li>
+                            </ul>
+                        </div>
+                    </div>
+                </section>
+                <section>
+                    <Link to="/generic" className="image">
+                        <img src={pic12} alt="" />
+                    </Link>
+                    <div className="content">
+                        <div className="inner">
+                            <header className="major">
+                                <h3>SupplyChainSandbox Jeopardy</h3>
+                            </header>
+                            <p>Protecting your organization’s information in a digitally-connected world means understanding not only your organization’s immediate supply chain, but also the security of the extended ecosystem and all entities involved. The SupplyChainSandbox Jeopardy group is educating the public about supply chain risk management through an interactive fun and educational experience.</p>
+                            <ul className="actions">
+                                <li><Link to="https://github.com/SupplyChainSandbox/supplychainjeopardy" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
