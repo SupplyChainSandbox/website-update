@@ -17,7 +17,7 @@ const QuadBlocks = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>QuadBlocksQuiz: Supply Chain Edition</h1>
-                        <span> <img src="../assets/images/quad-block-logo.png" width="300" height="auto" /> </span>
+                        <span> <img src="../assets/images/quad-block-logo-1600.png" width="300" height="auto" /> </span>
                     </header>
                     <span className="image left"><img src={pic11} alt="" /></span>
 
