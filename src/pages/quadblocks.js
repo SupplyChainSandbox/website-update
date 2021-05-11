@@ -4,6 +4,7 @@ import { Link } from 'gatsby'
 import Layout from '../components/layout'
 
 import pic11 from '../assets/images/quad-blocks-quiz.jpg'
+import pic13 from '../assets/images/quad-block-logo-1600.png'
 
 const QuadBlocks = (props) => (
     <Layout>
@@ -17,7 +18,7 @@ const QuadBlocks = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>QuadBlocksQuiz: Supply Chain Edition</h1>
-                        <span> <img src="../assets/images/quad-block-logo-1600.png" width="300" height="auto" /> </span>
+                        <span> <img src={pic13} width="300" height="auto" /> </span>
                     </header>
                     <span className="image left"><img src={pic11} alt="" /></span>
 

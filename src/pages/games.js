@@ -9,6 +9,7 @@ import pic09 from '../assets/images/beer_game.jpg'
 import pic10 from '../assets/images/helena-yankovska-sJOy9pveFbU-unsplash.jpg'
 import pic11 from '../assets/images/quad-blocks-quiz.jpg'
 import pic12 from '../assets/images/jeopardy.jpg'
+import pic13 from '../assets/images/quad-block-logo-1600.png'
 
 
 const Games = (props) => (
@@ -45,7 +46,7 @@ const Games = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>QuadBlocksQuiz: Supply Chain Edition <span> <img src="../assets/images/quad-block-logo-1600.png" width="300" height="auto" /> </span> </h3>
+                                <h3>QuadBlocksQuiz: Supply Chain Edition <span> <img src={pic13} width="300" height="auto" /> </span> </h3>
                             </header>
                             <p>Explore cybersecurity's most important emerging strategic focus with the digital era's most beloved game.</p>
                             <p>We proudly present the SupplyChainSandbox edition of QuadBlocksQuiz - a reimagined take on classic Tetrominoes where playful
