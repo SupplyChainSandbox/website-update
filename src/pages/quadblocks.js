@@ -17,6 +17,7 @@ const QuadBlocks = (props) => (
                 <div className="inner">
                     <header className="major">
                         <h1>QuadBlocksQuiz: Supply Chain Edition</h1>
+                        <span> <img src="../assets/images/quad-block-logo.png" width="300" height="auto"> </span>
                     </header>
                     <span className="image left"><img src={pic11} alt="" /></span>
 
@@ -56,6 +57,15 @@ const QuadBlocks = (props) => (
                                     and address emerging vulnerabilities as the operational environment speeds up and slows down around us.
                                     Play the game and find out!
                                 </p>
+                              <h3>Win! </h3>
+                                <p>Leaderboard bragging rights and a better knowledge of supply chain security are solid prizes in their own right, 
+                                but just in case the thrill of learning isn’t incentive enough, we’ve curated a raft of prizes that are a bit more enticing. 
+                                Top scoring pragmatists can select from their choice of 
+                                consulting hours from sFractal’s Chief Cyber Curmudgeon, Duncan Sparrell, 
+                                software development expertise from Podii, or 
+                                marketing/writing assistance from Briar Cutter. 
+                                And if you’ve got those bases covered or you’re a dedicated epicurean, 
+                                you can select from one of three custom cocktail prizes from Mixologist/Sommelier Chantal Tseng.</p>
                               <ul className="actions">
                                   <li><Link to="/quadblocks" className="button">coming soon</Link></li>
                               </ul>
