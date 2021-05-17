@@ -105,7 +105,7 @@ const Games = (props) => (
                             </header>
                             <p>The SupplychainSanbox Sipping Bill of Materials group's intent is to provide a Bill of Materials in a fun and educational way by applying the concept to mixology!</p>
                             <ul className="actions">
-                                <li><Link to="/generic" className="button">Learn more</Link></li>
+                                <li><Link to="/sbom" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
