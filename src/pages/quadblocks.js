@@ -68,7 +68,7 @@ const QuadBlocks = (props) => (
                                 And if you’ve got those bases covered or you’re a dedicated epicurean, 
                                 you can select from one of three custom cocktail prizes from Mixologist/Sommelier Chantal Tseng.</p>
                               <ul className="actions">
-                                  <li><Link to="/quadblocks" className="button">coming soon</Link></li>
+                                  <li><Link to="http://quadblockquiz.org:4000/" className="button">PLAY NOW</Link></li>
                               </ul>
                 </div>
             </section>
