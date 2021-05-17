@@ -36,6 +36,7 @@ const Upcoming = (props) => (
                             RSAC 2021 All Access Pass.
                             </p> 
                             <ul className="actions">
+                                <li><Link to="https://www.rsaconference.com/usa/agenda/full-agenda#q=sbx8&sort=%40eventstart%20ascending" className="button">see the agenda</Link></li>
                                 <li><Link to="https://www.rsaconference.com/usa?utm_source=sbox-supchainsbox&utm_medium=referral&utm_campaign=standard-textad-us2021" className="button">register</Link></li>
                             </ul>
                         </div>
