@@ -78,7 +78,7 @@ const Games = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="https://github.com/SupplyChainSandbox/supplychainjeopardy" className="image">
+                    <Link to="/jeopardy" className="image">
                         <img src={pic12} alt="" />
                     </Link>
                     <div className="content">
@@ -88,7 +88,7 @@ const Games = (props) => (
                             </header>
                             <p>Protecting your organization’s information in a digitally-connected world means understanding not only your organization’s immediate supply chain, but also the security of the extended ecosystem and all entities involved. The SupplyChainSandbox Jeopardy group is educating the public about supply chain risk management through an interactive fun and educational experience.</p>
                             <ul className="actions">
-                                <li><Link to="https://github.com/SupplyChainSandbox/supplychainjeopardy" className="button">Learn more</Link></li>
+                                <li><Link to="/jeopardy" className="button">Learn more</Link></li>
                             </ul>
                         </div>
                     </div>
