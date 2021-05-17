@@ -25,7 +25,7 @@ const Games = (props) => (
         <div id="main">
             <section id="two" className="spotlights">
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="http://supplychainsprint.com/" className="image">
                         <img src={pic08} alt="" />
                     </Link>
                     <div className="content">
@@ -56,12 +56,13 @@ const Games = (props) => (
                                 and communication consulting support to a guided absinthe experience from an award-winning mixologist</p>
                             <ul className="actions">
                                 <li><Link to="/quadblocks" className="button">Learn more</Link></li>
+                                <li><Link to="http://quadblockquiz.org:4000/" className="button">PLAY NOW</Link></li>
                             </ul>
                         </div>
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="https://www.quiz-maker.com/Q7YAGXTLS" className="image">
                         <img src={pic14} alt="" />
                     </Link>
                     <div className="content">
@@ -77,7 +78,7 @@ const Games = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="https://github.com/SupplyChainSandbox/supplychainjeopardy" className="image">
                         <img src={pic12} alt="" />
                     </Link>
                     <div className="content">
@@ -93,7 +94,7 @@ const Games = (props) => (
                     </div>
                 </section>
                 <section>
-                    <Link to="/generic" className="image">
+                    <Link to="/sbom" className="image">
                         <img src={pic10} alt="" />
                     </Link>
                     <div className="content">
