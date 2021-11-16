@@ -24,14 +24,14 @@ const Upcoming = (props) => (
                     <div className="content">
                         <div className="inner">
                             <header className="major">
-                                <h3>RSA Conference 2021</h3>
+                                <h3>RSA Conference 2022</h3>
                             </header>
                             <p>
                             <b>Discover the weak Supply Chain links at RSAC Sandbox.</b>
                             </p>
-                            <p>Tuesday, May 18 | 9:20 AM – 3:40 PM PT</p>
+                            <p>Tuesday, February 8th through Thursday, February 10th</p>
                             <p>
-Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more effectively. Join us in the Supply Chain Village Sandbox from Tuesday, February 8 through Thursday, February 10. Plus, <Link to="https://www.rsaconference.com/usa?utm_source=sb-supchain&utm_medium=referral&utm_campaign=textad-us2022">register today</Link> using code 32USBSCVFD to save $150 off your RSAC 2022 Full Conference Pass. Open to Full Conference and Expo Plus passholders only.
+Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more effectively. Join us in the Supply Chain Village Sandbox from Tuesday, February 8 through Thursday, February 10. Plus, <Link to="https://www.rsaconference.com/usa/agenda">register today</Link> using code 32USBSCVFD to save $150 off your RSAC 2022 Full Conference Pass. Open to Full Conference and Expo Plus passholders only.
                             </p> 
                             <ul className="actions">
                                 <li><Link to="https://www.rsaconference.com/usa/agenda/full-agenda#q=sbx8&sort=%40eventstart%20ascending" className="button">see the agenda</Link></li>
