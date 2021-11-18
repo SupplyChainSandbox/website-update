@@ -31,11 +31,11 @@ const Upcoming = (props) => (
                             </p>
                             <p>Tuesday, February 8th through Thursday, February 10th</p>
                             <p>
-Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more effectively. Join us in the Supply Chain Village Sandbox from Tuesday, February 8 through Thursday, February 10. Plus, <Link to="https://www.rsaconference.com/usa/agenda">register today</Link> using code 32USBSCVFD to save $150 off your RSAC 2022 Full Conference Pass. Open to Full Conference and Expo Plus passholders only.
+Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more effectively. Join us in the Supply Chain Village Sandbox from Tuesday, February 8 through Thursday, February 10. Plus, <Link to="https://www.rsaconference.com/usa?utm_source=sb-subchain&utm_medium=referral&utm_campaign=textad-us2022">register today</Link> using code 32USBSCVFD to save $150 off your RSAC 2022 Full Conference Pass. Open to Full Conference and Expo Plus passholders only.
                             </p> 
                             <ul className="actions">
-                                <li><Link to="https://www.rsaconference.com/usa/agenda/full-agenda#q=sbx8&sort=%40eventstart%20ascending" className="button">see the agenda</Link></li>
-                                <li><Link to="https://www.rsaconference.com/usa?utm_source=sbox-supchainsbox&utm_medium=referral&utm_campaign=standard-textad-us2021" className="button">register</Link></li>
+                                <li><Link to="https://www.rsaconference.com/usa/agenda?utm_source=sb-supchain&utm_medium=referral&utm_campaign=textad-us2022" className="button">see the agenda</Link></li>
+                                <li><Link to="https://www.rsaconference.com/usa?utm_source=sb-supchain&utm_medium=referral&utm_campaign=textad-us2022" className="button">register</Link></li>
                             </ul>
                         </div>
                     </div>

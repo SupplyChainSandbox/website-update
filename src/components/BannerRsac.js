@@ -9,7 +9,7 @@ const BannerRsac = (props) => (
             <div className="content">
                 <span className="image main"><img src={rsaclogo} alt="" /></span>
                 <ul className="actions">
-                    <li><a href="https://www.rsaconference.com/usa/agenda" className="button">see the agenda</a></li>
+                    <li><a href="https://www.rsaconference.com/usa/agenda?utm_source=sb-supchain&utm_medium=referral&utm_campaign=textad-us2022" className="button">see the agenda</a></li>
                     <li><a href="/upcoming" className="button next scrolly">Learn more</a></li>
                 </ul>
             </div>
