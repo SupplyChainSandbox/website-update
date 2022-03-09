@@ -31,7 +31,7 @@ const Upcoming = (props) => (
                             </p>
                             <p>Tuesday, June 7th through Thursday, June 9th</p>
                             <p>
-Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more effectively. Join us in the Supply Chain Village Sandbox from Tuesday, February 8 through Thursday, February 10. Plus, <Link to="https://www.rsaconference.com/usa?utm_source=sb-supchain&utm_medium=referral&utm_campaign=textad-us2022">register today</Link> using code 32USBSCVFD to save $150 off your RSAC 2022 Full Conference Pass. Open to Full Conference and Expo Plus passholders only.
+Supply chain management is a critical factor of business success. Explore the impacts of supply chain issues and learn concepts and approaches to manage cyber supply chains more effectively. Join us in the Supply Chain Village Sandbox from Tuesday, June 7 through Thursday, June 9.
                             </p> 
                             <ul className="actions">
                                 <li><Link to="https://www.rsaconference.com/usa/agenda?utm_source=sb-supchain&utm_medium=referral&utm_campaign=textad-us2022" className="button">see the agenda</Link></li>
