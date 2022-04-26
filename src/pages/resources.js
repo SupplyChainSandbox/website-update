@@ -62,7 +62,7 @@ const Resources = (props) => (
                   </a>
                 </li>
                 <li>
-                  <a href="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8286A-draft.pdf">
+                  <a href="https://nvlpubs.nist.gov/nistpubs/ir/2020/NIST.IR.8286.pdf">
                     {" "}
                     Identifying and Estimating Cybersecurity Risk for Enterprise
                     Risk Management (ERM)
@@ -75,7 +75,7 @@ const Resources = (props) => (
                   </a>
                 </li>
                 <li>
-                  <a href="https://doi.org/10.6028/NIST.SP.800-53r5">
+                  <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r5.pdf">
                     {" "}
                     Security and Privacy Controls for Information Systems and
                     Organizations
@@ -85,7 +85,7 @@ const Resources = (props) => (
                   <a href="https://us-cert.cisa.gov/sites/default/files/documents/Procurement_Language_Rev4_100809_S508C.pdf">
                     {" "}
                     Department of Homeland Security Cyber Security Procurement
-                    Language. for Control Systems
+                    Language for Control Systems
                   </a>
                 </li>
                 <li>
@@ -113,19 +113,21 @@ const Resources = (props) => (
           <div className="content">
             <div className="inner">
               <header className="major">
-                <h3>Identity Service</h3>
+                <h3>Integrate Supply Chain Risk Management</h3>
               </header>
               <p>
                 {" "}
-                Determine Qualifying Criteria. Perform Market Analysis. Models
-                are available to assist entities identify and evaluate necessary
-                supplier security practices. In addition, entities should
-                consider methods to verify or certify the scope, strength, and
-                efficacy of supplier practices.{" "}
+                Cybersecurity Supply Chain Risk Management (C-SCRM) is a systematic 
+                process for managing exposures to cybersecurity risks, threats, and vulnerabilities       throughout the supply chain and developing appropriate response strategies presented by the supplier, the supplied products, services, and the supply chain. Determine Qualifying Criteria. Perform Market Analysis. Models are available to assist entities identify and evaluate necessary supplier security practices. In addition, entities should consider methods to verify or certify the scope, strength, and efficacy of supplier practices..{" "}
               </p>
               <ul>
+              <li>
+                  <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-draft2.pdf">
+                    {" "}
+                    Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations{" "}
+               </li>
                 <li>
-                  <a href="https://www.natf.net/docs/natf/documents/resources/supply-chain/supplier-cyber-security-assessment-model.pdf">
+                  <a href="https://www.natf.net/docs/natf/documents/resources/supply-chain/supply-chain-security-assessment-model.pdf">
                     {" "}
                     Supplier Cyber Security Assessment Model{" "}
                   </a>
@@ -141,7 +143,7 @@ const Resources = (props) => (
           <div className="content">
             <div className="inner">
               <header className="major">
-                <h3>RFX</h3>
+                <h3>RFX (RFI/RFP)</h3>
               </header>
               <p>
                 Entities can choose from high-level measures using structured
@@ -157,7 +159,7 @@ const Resources = (props) => (
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.natf.net/docs/natf/documents/resources/supply-chain/energy-sector-supply-chain-risk-questionnaire---formatted.xlsx">
+                  <a href="https://www.natf.net/docs/natf/documents/resources/supply-chain/energy-sector-supply-chain-risk-questionnaire---formatted7c299347a3f26307be03ff00005e4fde.xlsx">
                     {" "}
                     Energy Sector questionnaire{" "}
                   </a>
@@ -185,9 +187,14 @@ const Resources = (props) => (
               </p>
               <ul>
                 <li>
-                  <a href="https://www.eei.org/issuesandpolicy/Documents/EEI%20Law%20-%20Model%20Procurement%20Contract%20Language.pdf">
+                  <a href="https://www.eei.org/-/media/Project/EEI/Documents/Issues-and-Policy/EEI-Law---Model-Procurement-Contract-Language.pdf">
                     Model Procurement Contract Language Addressing Cybersecurity
                     Supply Chain Risk V2
+                  </a>
+                </li>
+                <li>
+                  <a href="https://csrc.nist.gov/CSRC/media/Projects/Supply-Chain-Risk-Management/documents/briefings/Workshop-Brief-on-Cyber-SCRM-Vendor-Selection-and-Management.pdf">
+                    Best Practices in Cyber Supply Chain Risk Management
                   </a>
                 </li>
               </ul>
@@ -237,7 +244,7 @@ const Resources = (props) => (
                 <li>
                   <a href="https://www.maritime-executive.com/article/tracking-and-chain-of-custody-the-difference  ">
                     {" "}
-                    SP 800-53B Control Baselines
+                    Tracking and Chain of Custody: The Differences
                   </a>
                 </li>
               </ul>
@@ -288,3 +295,4 @@ const Resources = (props) => (
 );
 
 export default Resources;
+
