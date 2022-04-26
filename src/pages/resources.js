@@ -125,6 +125,7 @@ const Resources = (props) => (
                   <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-draft2.pdf">
                     {" "}
                     Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations{" "}
+                  </a>
                </li>
                 <li>
                   <a href="https://www.natf.net/docs/natf/documents/resources/supply-chain/supply-chain-security-assessment-model.pdf">
