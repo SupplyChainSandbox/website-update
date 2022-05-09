@@ -52,8 +52,8 @@ const Games = (props) => (
                             <p>Explore cybersecurity's most important emerging strategic focus with the digital era's most beloved game.</p>
                             <p>We proudly present the SupplyChainSandbox edition of QuadBlocksQuiz - a reimagined take on classic Tetrominoes where playful
                                spatial negotiations are infused with real-life Trivia challenges from the world of supply chain security.</p>
-                            <p>Compete against other RSA attendees to top the leaderboard and win prizes ranging from cyber-security, software development, 
-                                and communication consulting support to a guided absinthe experience from an award-winning mixologist</p>
+                            <p>Compete against other RSA attendees to top the leaderboard and win prizes ranging from signed copies of Sounil Yu's new book to custom designed cocktails from an award-winning mixologist</p>
+                            <p>Come to QuadBlockQuiz Celebrity Challenge (Tues 3PM Pacific) and watch cybersecurity rock stars be more fumble fingered than you are, or miss questions when the answers are right there on the page.</p>
                             <ul className="actions">
                                 <li><Link to="/quadblocks" className="button">Learn more</Link></li>
                                 <li><Link to="http://quadblockquiz.org:4000/" className="button">PLAY NOW</Link></li>
@@ -124,7 +124,7 @@ const Games = (props) => (
                               <li><a href="https://www.supplychain-academy.net/beer-game/">Supply Chain Academy</a></li>
                               <li><a href="https://beergameapp.com/">A.T. Kearney (iPhone)</a></li>
                               <li><a href="https://beergame.opexanalytics.com/#/">Opex Analytics</a></li>
-                            </ul> 
+                            </ul>
                         </div>
                     </div>
                 </section>
