@@ -43,7 +43,7 @@ const QuadBlocks = (props) => (
                              <h3>Power Up!</h3>
                                <p>You don't need to be a supply chain expert - this game assumes you are a novice
                                and it teaches you what you need to know. You gain points by clearing rows as in a typical Tetrominoes game.
-                               Here's the twist - you can answer quiz questions about supply chain both to gain points and to gain powerups.</p>
+                               Here's the twist - you can answer quiz questions about supply chain both to gain points and to gain powerups. No prior knowledge needed to answer questions as the question pages contain all the info you need.</p>
                               <p>Powerups help with classic Tetrominoes strategy but also are needed
                                to combat:</p>
                                 <ul>
@@ -58,15 +58,12 @@ const QuadBlocks = (props) => (
                                     and address emerging vulnerabilities as the operational environment speeds up and slows down around us.
                                     Play the game and find out!
                                 </p>
+                              <h3>Watch! </h3>
+                              <p>3 PM Pacific on Tues 7-June will show the rock stars of cybersecurity matching off in QuadBlockQuiz Celebrity Challenge. Come watch and learn that they aren't any better at this than you are :-).</p>
                               <h3>Win! </h3>
-                                <p>Leaderboard bragging rights and a better knowledge of supply chain security are solid prizes in their own right, 
-                                but just in case the thrill of learning isn’t incentive enough, we’ve curated a raft of prizes that are a bit more enticing. 
-                                Top scoring pragmatists can select from their choice of 
-                                consulting hours from sFractal’s Chief Cyber Curmudgeon, Duncan Sparrell, 
-                                software development expertise from Podii, or 
-                                marketing/writing assistance from Briar Cutter. 
-                                And if you’ve got those bases covered or you’re a dedicated epicurean, 
-                                you can select from one of three custom cocktail prizes from Mixologist/Sommelier Chantal Tseng.</p>
+                                <p>Leaderboard bragging rights and a better knowledge of supply chain security are solid prizes in their own right,
+                                but just in case the thrill of learning isn’t incentive enough, we’ve curated a raft of prizes that are a bit more enticing.
+                                You may win an autographed copy of Sounil Yu's new book. Or you may win a zoom custom cocktail party from Mixologist/Sommelier Chantal Tseng.</p>
                               <ul className="actions">
                                   <li><Link to="http://quadblockquiz.org:4000/" className="button">PLAY NOW</Link></li>
                               </ul>
