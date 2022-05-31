@@ -122,7 +122,7 @@ const Resources = (props) => (
               </p>
               <ul>
               <li>
-                  <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1-draft2.pdf">
+                  <a href="https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-161r1.pdf">
                     {" "}
                     Cybersecurity Supply Chain Risk Management Practices for Systems and Organizations{" "}
                   </a>
@@ -284,6 +284,12 @@ const Resources = (props) => (
                     {" "}
                     Cybersecurity Procurement Language for Energy Delivery
                     Systems{" "}
+                  </a>
+                </li>
+                <li>
+                  <a href="https://www.cisa.gov/tips/st18-005">
+                    {" "}
+                    CISA Guide Proper Disposal of Electronic Devices
                   </a>
                 </li>
               </ul>
