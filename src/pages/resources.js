@@ -280,13 +280,6 @@ const Resources = (props) => (
                   </a>
                 </li>
                 <li>
-                  <a href="https://www.energy.gov/sites/prod/files/2014/04/f15/CybersecProcurementLanguage-EnergyDeliverySystems_040714_fin.pdf">
-                    {" "}
-                    Cybersecurity Procurement Language for Energy Delivery
-                    Systems{" "}
-                  </a>
-                </li>
-                <li>
                   <a href="https://www.cisa.gov/tips/st18-005">
                     {" "}
                     CISA Guide Proper Disposal of Electronic Devices
